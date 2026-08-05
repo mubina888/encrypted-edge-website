@@ -51,7 +51,7 @@ Areas of exploration:
 
 ---
 
-## 🧠 Tech Cyber Lab
+## 🧠 Tech  Edge Lab
 
 A technology innovation division exploring:
 
